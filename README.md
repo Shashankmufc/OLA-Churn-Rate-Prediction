@@ -12,7 +12,7 @@ Python | SQL | Machine Learning | Product Analytics | Databricks | Azure
 ### 🧪 Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-Developed an ensemble learning model to predict driver attrition at Ola using demographic, tenure, and performance data to help reduce churn and improve driver retention strategies.
+|OLA Driver Churn Prediction.| Developed an ensemble learning model to predict driver attrition at Ola using demographic, tenure, and performance data to help reduce churn and improve driver retention strategies.| Ensemble learning |
 
 ### 🏆 Highlights
 Currently working on building optimized Revenue Management Systems for the airline industry — enabling smarter and more dynamic pricing decisions using advanced data-driven techniques.
